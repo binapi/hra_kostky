@@ -1,0 +1,1 @@
+git push https://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@github.com/binapi/hra_kostky.git
