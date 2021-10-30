@@ -48,9 +48,6 @@ d.querySelector(".app_game_roll_dice").addEventListener("click",function(){
         nextPlayer();
     }
     }
-    
-
-
 }); 
 
 function nextPlayer(){
